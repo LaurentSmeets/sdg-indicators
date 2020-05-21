@@ -115,7 +115,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-open-sdg-plugins
 
-remote_theme: brockfanning/open-sdg@high-contrast-list-items
+remote_theme: brockfanning/open-sdg@high-contrast-breadcrumb-links
 
 # Apply any custom Javascript.
 custom_js:
